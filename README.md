@@ -14,7 +14,7 @@ Planification stratégique : https://nimble-echinacea-d64.notion.site/Planificat
 
 Exercice - SMART : https://nimble-echinacea-d64.notion.site/Exercice-SMART-babf0a780c864dc290e78b79173045a1?pvs=4
 
-Correction - SMART :
+Correction - SMART : https://nimble-echinacea-d64.notion.site/Correction-SMART-c61172e143ab4fdaaef806e47816548c?pvs=4
 
 Exercice - SWOT :
 
