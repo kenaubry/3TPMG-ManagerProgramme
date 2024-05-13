@@ -19,3 +19,5 @@ Correction - SMART : https://nimble-echinacea-d64.notion.site/Correction-SMART-c
 Exercice - SWOT : https://nimble-echinacea-d64.notion.site/Exercice-SWOT-a4e25f96c165490dae8c7856684502b2?pvs=4
 
 Correction - SWOT : https://nimble-echinacea-d64.notion.site/Correction-SWOT-ff80cd6ba255490b9454b431a066c554?pvs=4
+
+TP : 
