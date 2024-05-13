@@ -12,7 +12,7 @@ Gestion d'un programme : https://nimble-echinacea-d64.notion.site/Gestion-d-un-P
 
 Planification stratégique : https://nimble-echinacea-d64.notion.site/Planification-strat-gique-d043fea30812406b8656f138a0f881a4?pvs=4
 
-Exercice - SMART :
+Exercice - SMART : https://nimble-echinacea-d64.notion.site/Exercice-SMART-babf0a780c864dc290e78b79173045a1?pvs=4
 
 Correction - SMART :
 
