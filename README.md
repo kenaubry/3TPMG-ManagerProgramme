@@ -16,6 +16,6 @@ Exercice - SMART : https://nimble-echinacea-d64.notion.site/Exercice-SMART-babf0
 
 Correction - SMART : https://nimble-echinacea-d64.notion.site/Correction-SMART-c61172e143ab4fdaaef806e47816548c?pvs=4
 
-Exercice - SWOT :
+Exercice - SWOT : https://nimble-echinacea-d64.notion.site/Exercice-SWOT-a4e25f96c165490dae8c7856684502b2?pvs=4
 
 Correction - SWOT :
