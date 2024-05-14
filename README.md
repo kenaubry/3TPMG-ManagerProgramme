@@ -21,3 +21,5 @@ Exercice - SWOT : https://nimble-echinacea-d64.notion.site/Exercice-SWOT-a4e25f9
 Correction - SWOT : https://nimble-echinacea-d64.notion.site/Correction-SWOT-ff80cd6ba255490b9454b431a066c554?pvs=4
 
 TP : https://nimble-echinacea-d64.notion.site/TP-Gestion-de-Programme-JOUR-1-88d267ed48874ee79c5ad43fc041c2fa?pvs=4
+
+### JOUR 2
