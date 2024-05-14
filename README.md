@@ -25,3 +25,5 @@ TP : https://nimble-echinacea-d64.notion.site/TP-Gestion-de-Programme-JOUR-1-88d
 ### JOUR 2
 
 Matrice RACI : https://nimble-echinacea-d64.notion.site/M-thode-RACI-996eee5078d2494284f566a8ea22ae46?pvs=4
+
+Exercice - RACI : https://nimble-echinacea-d64.notion.site/Exercice-RACI-0e0a4c7af4bd4e12bfc98c51edb2b639?pvs=4
