@@ -20,7 +20,7 @@ Exercice - SWOT : https://nimble-echinacea-d64.notion.site/Exercice-SWOT-a4e25f9
 
 Correction - SWOT : https://nimble-echinacea-d64.notion.site/Correction-SWOT-ff80cd6ba255490b9454b431a066c554?pvs=4
 
-TP : https://nimble-echinacea-d64.notion.site/TP-Gestion-de-Programme-JOUR-1-88d267ed48874ee79c5ad43fc041c2fa?pvs=4
+TP - Partie 1 : https://nimble-echinacea-d64.notion.site/TP-Gestion-de-Programme-JOUR-1-88d267ed48874ee79c5ad43fc041c2fa?pvs=4
 
 ### JOUR 2
 
@@ -35,3 +35,5 @@ Gestion des risques : https://nimble-echinacea-d64.notion.site/Gestion-des-risqu
 Exercice - Gestion des risques : https://nimble-echinacea-d64.notion.site/Exercice-Gestion-des-risques-83b04f14d8954b86a72ccb5972838dfa?pvs=4
 
 Correction - Gestion des risques : https://nimble-echinacea-d64.notion.site/Correction-Gestion-des-risques-e5a1f45f4da04b6e82d15c0da85a7ab5?pvs=4
+
+TP - Partie 2 : https://nimble-echinacea-d64.notion.site/TP-Gestion-de-Programme-JOUR-2-f8ba49c137ff457796be6ae69899f7d4?pvs=4
