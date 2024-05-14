@@ -33,3 +33,5 @@ Correction - RACI : https://nimble-echinacea-d64.notion.site/Correction-RACI-c36
 Gestion des risques : https://nimble-echinacea-d64.notion.site/Gestion-des-risques-e76a09fc027d4bc38d7bcce7ced34574?pvs=4
 
 Exercice - Gestion des risques : https://nimble-echinacea-d64.notion.site/Exercice-Gestion-des-risques-83b04f14d8954b86a72ccb5972838dfa?pvs=4
+
+Correction - Gestion des risques : https://nimble-echinacea-d64.notion.site/Correction-Gestion-des-risques-e5a1f45f4da04b6e82d15c0da85a7ab5?pvs=4
