@@ -28,7 +28,8 @@ Matrice RACI : https://nimble-echinacea-d64.notion.site/M-thode-RACI-996eee5078d
 
 Exercice - RACI : https://nimble-echinacea-d64.notion.site/Exercice-RACI-0e0a4c7af4bd4e12bfc98c51edb2b639?pvs=4
 
-Gestion des risques : 
+Correction - RACI : https://nimble-echinacea-d64.notion.site/Correction-RACI-c3683049b3674725a3e7e7c6f08fb78a?pvs=4
+
+Gestion des risques : https://nimble-echinacea-d64.notion.site/Gestion-des-risques-e76a09fc027d4bc38d7bcce7ced34574?pvs=4
 
 Exercice - Gestion des risques : 
-Correction - RACI : https://nimble-echinacea-d64.notion.site/Correction-RACI-c3683049b3674725a3e7e7c6f08fb78a?pvs=4
