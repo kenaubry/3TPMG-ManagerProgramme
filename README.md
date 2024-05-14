@@ -23,3 +23,5 @@ Correction - SWOT : https://nimble-echinacea-d64.notion.site/Correction-SWOT-ff8
 TP : https://nimble-echinacea-d64.notion.site/TP-Gestion-de-Programme-JOUR-1-88d267ed48874ee79c5ad43fc041c2fa?pvs=4
 
 ### JOUR 2
+
+Matrice RACI : https://nimble-echinacea-d64.notion.site/M-thode-RACI-996eee5078d2494284f566a8ea22ae46?pvs=4
