@@ -40,3 +40,8 @@ TP - Partie 2 : https://nimble-echinacea-d64.notion.site/TP-Gestion-de-Programme
 
 ### JOUR 3
 
+Cycle en V : https://nimble-echinacea-d64.notion.site/Cycle-en-V-d9c6cd8edcf94c1eb919a40d27c6771f?pvs=4
+
+QCM - Récapitulatif : 
+
+Techniques de négociation et management : 
