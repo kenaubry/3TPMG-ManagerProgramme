@@ -45,3 +45,5 @@ Cycle en V : https://nimble-echinacea-d64.notion.site/Cycle-en-V-d9c6cd8edcf94c1
 QCM - Récapitulatif : https://forms.gle/fKSkDXTkH93P8Xiz8
 
 Techniques de négociation et management : https://nimble-echinacea-d64.notion.site/N-gociation-et-management-03d62b7f36404cfd94ac2c946ccfcf9e?pvs=4
+
+Exercice - Négociation : https://nimble-echinacea-d64.notion.site/Exercice-N-gociation-8f144a2bd0dc4af2a2bc0d6acf97aa28?pvs=4
