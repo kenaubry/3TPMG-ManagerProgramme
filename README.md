@@ -37,3 +37,6 @@ Exercice - Gestion des risques : https://nimble-echinacea-d64.notion.site/Exerci
 Correction - Gestion des risques : https://nimble-echinacea-d64.notion.site/Correction-Gestion-des-risques-e5a1f45f4da04b6e82d15c0da85a7ab5?pvs=4
 
 TP - Partie 2 : https://nimble-echinacea-d64.notion.site/TP-Gestion-de-Programme-JOUR-2-f8ba49c137ff457796be6ae69899f7d4?pvs=4
+
+### JOUR 3
+
