@@ -52,4 +52,4 @@ TP - JOUR 3 : https://nimble-echinacea-d64.notion.site/TP-Gestion-de-Programme-J
 
 ### JOUR 4 - Soutenance
 
-Evaluation V2 : https://forms.gle/iNWvEFqgodLPJygr7
+Evaluation V2 : https://nimble-echinacea-d64.notion.site/valuation-V2-b2b95c25cdfe4cebb3ae6a241d29c370?pvs=4
