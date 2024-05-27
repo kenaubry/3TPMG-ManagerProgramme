@@ -49,3 +49,7 @@ Techniques de négociation et management : https://nimble-echinacea-d64.notion.s
 Exercice - Négociation : https://nimble-echinacea-d64.notion.site/Exercice-N-gociation-8f144a2bd0dc4af2a2bc0d6acf97aa28?pvs=4
 
 TP - JOUR 3 : https://nimble-echinacea-d64.notion.site/TP-Gestion-de-Programme-JOUR-3-9d91fec114a848c0b53018b4ec3dd6eb?pvs=4
+
+### JOUR 4 - Soutenance
+
+Evaluation V2 : https://forms.gle/iNWvEFqgodLPJygr7
